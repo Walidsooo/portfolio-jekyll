@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body id="page-top" class="index">
+    {% include nav.html %}
+
+    {% if page.url == "/" or page.url == "/portfolio-jekyll/" %}
+      {% include header.html %}
+    {% else %}
+      <div style="height: 100px; background-color: #222;"></div>
+    {% endif %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>

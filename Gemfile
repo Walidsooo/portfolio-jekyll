@@ -9,7 +9,7 @@ gem "minima", "~> 2.5"
 # Les plugins indispensables pour le projet
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-seo-tag", "~> 2.8" # Ajouté pour respecter l'exigence SEO du PDF
+  gem "jekyll-seo-tag", "~> 2.8" # Ajouté pour respecter l'exigence SEO du Projet
 end
 
 # Outils de compatibilité pour Ruby 4.0 et les serveurs GitHub
