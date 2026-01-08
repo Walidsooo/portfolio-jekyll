@@ -1,12 +1,11 @@
 ---
 title: To-Do List Interactive
-subtitle: Organisation et Productivité
 layout: default
 modal-id: 2
 date: 2026-01-08
 thumbnail: bg-tdo.jpg
 project-url: "https://github.com/Walidsooo/To-do-List-"
-live-url: https://walidsooo.github.io/To-do-List-/ 
-category: JavaScript Application
-description: "Développement d'une application de gestion de tâches intuitive et réactive en JS."
+live-url: "https://walidsooo.github.io/To-do-List-/"
+technologies: "html5, css3-alt, js"
+description: "Outil de gestion de tâches dynamique pour la productivité. Focus sur l'expérience utilisateur et la structure du code."
 ---
