@@ -9,6 +9,9 @@ permalink: /about/
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">À propos de moi</h2>
+                <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/img/walid.jpg" alt="Walid SOFIANE" style="width: 200px; border-radius: 50%; border: 5px solid #fed136; margin-bottom: 20px;">
+</div>
                 <h3 class="section-subheading text-muted">Mon parcours et mes aspirations vers l'IA.</h3>
             </div>
         </div>
@@ -22,4 +25,5 @@ permalink: /about/
             </div>
         </div>
     </div>
+
 </section>

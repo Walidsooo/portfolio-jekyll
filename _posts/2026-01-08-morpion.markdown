@@ -1,0 +1,16 @@
+---
+title: Jeu du Morpion
+subtitle: Logique et Interaction
+layout: default
+modal-id: 4
+date: 2026-01-08
+thumbnail: bg-morpion.jpg
+project-url: "https://github.com/Walidsooo/Morpion"
+live-url: "https://walidsooo.github.io/Morpion/" 
+category: JavaScript Game
+description: >-
+  Développement d'un jeu de Morpion classique entièrement fonctionnel en JavaScript. 
+  Ce projet met en œuvre des algorithmes de détection de victoire et de match nul, 
+  ainsi qu'une gestion d'état fluide pour alterner entre les joueurs. L'interface 
+  est épurée et réactive, offrant une expérience de jeu instantanée directement dans le navigateur.
+---
