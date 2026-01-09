@@ -1,5 +1,23 @@
-_site
-.sass-cache
-.jekyll-cache
+# --- JEKYLL & COMPILATION ---
+# On ignore le dossier de sortie car il est généré à chaque fois
+_site/
+# On ignore les dossiers de cache internes de Jekyll
+.jekyll-cache/
 .jekyll-metadata
-vendor
+.sass-cache/
+
+# --- FICHIERS SYSTÈME (MAC) ---
+# Indispensable puisque tu es sur MacBook Air
+.DS_Store
+Thumbs.db
+
+# --- ARCHIVES ET DOCUMENTS ---
+# Pour éviter que les .zip ou les PDF ne reviennent à la racine
+*.zip
+*.pdf
+*.rtf
+
+# --- DÉPENDANCES ET LOGS ---
+.bundle/
+vendor/
+*.log
