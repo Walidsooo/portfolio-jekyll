@@ -5,8 +5,7 @@ description: >-
   Étudiant à Epitech, passionné par le développement web et les nouvelles technologies. 
   Découvrez mes projets et mon parcours professionnel.
 
-# --- CONFIGURATION GITHUB PAGES ---
-# Ne modifie pas ces deux lignes, elles sont vitales pour tes liens.
+
 baseurl: "/portfolio-jekyll"
 url: "https://walidsooo.github.io"
 
@@ -31,7 +30,7 @@ social:
     url: https://www.linkedin.com/in/walid-sofiane-355649328/
 
 address:
-  - line: Paris, France # Ou ta ville actuelle
+  - line: Paris, France 
 
 # --- RÉGLAGES TECHNIQUES DU MOTEUR ---
 markdown: kramdown
